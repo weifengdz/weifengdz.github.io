@@ -1,0 +1,43 @@
+﻿body {font:normal 12px/1.667 'Microsoft YaHei','Helvetica Neue',Tahoma,Arial,\5fae\8f6f\96c5\9ed1;*font-family:'Microsoft YaHei',Tahoma,Arial; padding:0; margin:0;}
+body ul {list-style-type:none; padding:0px; margin:0px;}
+body a {text-decoration:none;}
+.clear{clear:both; font-size:0; line-height:0;}
+
+
+
+/* 全站主导航 */
+.nav { z-index:6; width:100%; height:40px; margin:10px 0;  }
+.g-index-nav,.g-nav{ overflow: hidden;  height: 41px;}
+.g-index-nav li{ float: left; text-align: center;  line-height: 38px;  font-size: 16px;}
+.g-index-nav li{width: 90px; }
+.g-index-nav li.g-cc {width:120px;}
+.g-index-nav li.g-cc a{width:120px; *width:119px; display:block;}
+.g-index-nav li a{  float: left;  background: #fff  url(../../image/icon2015.png) no-repeat scroll 0 -67px;  padding: 0 0 0 1px; height: 38px; border-bottom: 3px solid #1057a7;}
+.g-index-nav li a{ width: 89px; }
+.g-index-nav li.first a,
+.g-nav li.first a{ background: #fff;}
+.g-index-nav li a:hover,.g-index-nav li.cur a,.g-nav li a:hover,.g-nav li.cur a{border-bottom: 3px solid #cc0000; text-decoration: none; color: #cc0000}
+.g-c-66 {color: #666666; font-family:"Microsoft YaHei";}
+.hdwz {
+
+	overflow:hidden;
+}
+.hdtp_a {
+	float:left;
+	width:200px;
+	height:80px; 
+	border:1px solid #e00;
+}
+.hdtp_b {
+	float:left;
+	width:200px;
+	height:80px; 
+	margin-left:10px;
+	border:1px solid #e00;
+}
+.hdtp_c {
+	float:right;
+	width:200px;
+	height:80px;
+	border:1px solid #e00;
+}

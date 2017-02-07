@@ -1,0 +1,276 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+.clear{
+	clear:both;
+	}
+	
+.main{
+	width:1200px;
+	margin:0 auto;
+	}
+	
+.sp_tit h5{
+	color:#fff;
+	line-height: 28px;
+	float:left;
+	font-size:16px;
+	font-weight:bold;
+	padding-left:5px;
+	}
+	
+.company_news_more{
+	float:right;
+	padding-top:4px;
+	color:#fff;
+	}
+	
+a{
+	color:#444;
+	text-decoration:none;
+	}
+
+/*--------------------------------------------------------------------------*/
+
+.side_a{
+	float:left;
+	width:260px;
+	}
+
+.side_c{
+	float:right;
+	width:260px; 
+	}
+	
+.side_a .spotnews{
+	height:450px;
+	margin-bottom:10px;
+	}
+	
+.company_news_more:hover{
+	color:#fff;
+	text-decoration: underline;
+	}
+	
+.spotnews_pic{
+	margin:5px 20px ;
+	margin:4px 3px 5px 20px\9;
+	border:#CCC 1px solid;
+	}
+	
+.spotnews_pic:hover{
+	border:#b4caec 1px solid;
+	}
+	
+.spotnews_ul{
+	padding:0 0 1px 0;
+	width:200px;
+	margin:auto;
+	*+margin-top:-6px;
+	}	
+	
+.spotnews_ul a{
+	color:#1b396d;
+	}
+.spotnews_ul a:hover{
+	color:#e46500;
+	}
+.spotnews_ul li{
+	background:url(../../image/list.gif) no-repeat left center;
+	padding-left:10px;
+	list-style:none;
+	line-height:19px;   
+	}
+	
+.spotnews_ul p{
+	margin:3px 0;
+word-break:keep-all;
+	white-space:nowrap;
+overflow:hidden;
+	height:35px;
+
+	}
+
+/*--------------------------------------------------------------------------*/
+
+.product_l{
+	width:258px;
+	border:1px solid #e00;
+	height:257px;
+	margin-bottom:10px;
+	}
+	
+.sidec_prdnav{
+	height:26px;
+	background-color:#d73339;
+	}
+	
+.sidec_prdnav .product_tab_1{
+	display:block;
+	float:left;
+	padding:2px 10px 0 10px;
+	padding:4px 10px 0 10px\9;
+	color:#e00;
+	border-left: #F2412F 1px solid;
+	}
+	
+.sidec_prdnav .product_tab_1:hover{
+	border-right:1px solid #b4caec;
+	font-weight:bolder;
+	color:#e00;
+	background:#fff;
+	height:24px;
+	height:22px\9;
+	}
+.sidec_prdnav .product_tab_1 .hover{
+	border-right:1px solid #b4caec;
+	font-weight:bolder;
+	color:#444;
+	background:#fff;
+	height:24px;
+	height:22px\9;
+	}
+	
+.sidec_prdnav .product_tab_2{
+	display:block;
+	float:left;
+	padding:2px 10px 0 10px;
+	padding:4px 10px 0 10px\9;
+	color:#fff;
+	}
+	
+.sidec_prdnav .product_tab_2:hover{
+	border-right:1px solid #b4caec;
+	border-left:1px solid #b4caec;
+	font-weight:bolder;
+	color:#444;
+	background:#fff;
+	height:24px;
+	height:22px\9;
+	}
+	
+.sidec_prdnav .product_more{
+	display:block;
+	float:right;
+	color:#fff;
+	}
+	
+.sidec_prdnav .product_more:hover{
+	color:#fff;
+	text-decoration: underline;
+	}
+	
+.side_c .product_content{
+	padding:5px 10px 8px 10px; 
+	}	
+	
+.product_contentfgg{
+	width:220px;
+	margin:auto;
+	}
+	
+.product_content li{
+	list-style:none;
+	margin-top: 5px; 
+	_margin-top:2px; 
+	}
+	
+.product_content .product_name{
+	float:left;
+	margin-right:5px;
+	color:#1e50a2;
+	}
+	
+.product_content .product_date{
+	float:right;
+	}
+	
+.product_content a:hover{
+	color:#e46500;
+	}
+	
+/*--------------------------------------------------------------------------*/
+
+.side_f{
+	width:978px;
+	border:1px solid #AACBEE;
+	background:url(image/title_bg.png) repeat-x left 2px;
+	}
+	
+.sidef_nav{
+	background:url(image/pro_sort_title.gif) top left no-repeat;
+	height:23px;
+	margin:-1px 0 6px -1px;
+	padding:5px 0 0 10px;
+	}
+	
+.sidef_nav h2{
+	float:left;
+	font-size:14px;
+	font-weight:bold;
+	color:#FFF;
+	}
+	
+.sidef_nav a{
+	float:right;
+	padding-right:10px;
+	}
+	
+.side_f ul{
+	padding:10px 0 10px 18px;
+	_padding:10px 0 0 18px;
+	_height:150px;
+	*padding:10px 0 0 18px;
+	*height:210px;
+	}
+	
+.side_f li{
+	list-style:none;
+	float:left;
+	margin-right:15px;
+	}
+
+.side_f img{
+	border:none;
+	}
+	
+.sidef_nav_img{
+	display:block;
+	border:#CCC 1px solid;
+	padding:4px;
+	margin-bottom:5px;
+	}
+	
+.sidef_nav_img:hover{
+	border:1px solid #AACBEE;
+	}
+	
+.side_f p{
+	font-weight:bold;
+	}
+
+.side_f .sidef_nav_p{
+	text-align:center;
+	color:#1b396d;
+	_padding-left:65px;
+	*padding-left:65px;
+	}
+	
+.sidef_nav_p:hover{
+	color:#e46500;
+	}
+	
+
+	
+.spotnews_ul a{
+	display:block;
+	margin:3px 0; 
+	white-space:nowrap;
+	overflow:hidden;
+	width:190px; text-overflow: ellipsis; 
+
+	}	
+	
+	
+	
