@@ -110,23 +110,23 @@ em{font-style:normal;}
 
 /*通用搜索*/
 .head-box { width:1190px; height:62px; margin:auto;}
-.head-box .logo_box {width: 338px;}  
+.head-box .logo_box {width: 338px;}
 .head-box .search_box {width: 540px; height:62px; float: left; z-index:999;}
-.head-box .search {width: 540px;height:38px;line-height:38px; background-color: #fff;border-left: 2px solid #01539b;border-top: 2px solid #01539b;border-bottom: 2px solid #01539b; float: left;position: relative; }	 
+.head-box .search {width: 540px;height:38px;line-height:38px; background-color: #fff;border-left: 2px solid #01539b;border-top: 2px solid #01539b;border-bottom: 2px solid #01539b; float: left;position: relative; }
 .head-box .search-list {display: none;  }
 .head-box .search-list ul {padding-top: 5px;width:69px; position:absolute;top:38px;text-align: center; background-color: #fff;border: 1px solid #e7e7e7;cursor: pointer; width: 69px;overflow: hidden;
 padding-left: 0; z-index: 9999;}
 .head-box .search-list ul li {line-height: 24px;width: 69px;padding-bottom: 5px;}
 .head-box .search-list ul li a { display:inline-block; padding:0px 20px ;}
 .head-box .search-list ul li a:hover { background-color:#cc0000; color:#fff;}
-.head-box .search b {color:#555;overflow: hidden;width: 35px;display: inline-block;height:38px;line-height: 36px;padding: 0 25px 0 10px;border-right: 1px solid #e7e7e7;background:url(skin/qyml-ioc.png) no-repeat -93px -18px;background-color: #f8f8f8;float: left;cursor: pointer;}
+.head-box .search b {color:#555;overflow: hidden;width: 35px;display: inline-block;height:38px;line-height: 36px;padding: 0 25px 0 10px;border-right: 1px solid #e7e7e7;background:url(../images/qyml-ioc.png) no-repeat -93px -18px;background-color: #f8f8f8;float: left;cursor: pointer;}
 .head-box .search input.search-txt {border-width: 0;height:38px;line-height:25px;width: 374px;padding-left: 15px;float: left;}
-.head-box .search a.search-btn {width: 65px;border: none;float: right;height:38px;line-height: 40px;background:#01539b url(skin/qyml-ioc.png) no-repeat 10px 7px; }
+.head-box .search a.search-btn {width: 65px;border: none;float: right;height:38px;line-height: 40px;background:#01539b url(../images/qyml-ioc.png) no-repeat 10px 7px; }
 .head-box .search_box p {padding-top: 5px; width:100%; overflow:hidden;}
 .head-box .fb-box {padding:9px 15px 9px 50px; border:1px solid #dddddd; display:inline-block; }
 .head-box .fb-box:hover { background-color:#fff;}
-.head-box .cp-box { background:#f9f9f9 url(skin/qyml-ioc.png) no-repeat -54px 11px; margin-left:50px;}
-.head-box .qg-box {background:#f9f9f9 url(skin/qyml-ioc.png) no-repeat -183px 10px;}
+.head-box .cp-box { background:#f9f9f9 url(../images/qyml-ioc.png) no-repeat -54px 11px; margin-left:50px;}
+.head-box .qg-box {background:#f9f9f9 url(../images/qyml-ioc.png) no-repeat -183px 10px;}
 
 /**新闻导航**/
 .nav_box{ width:100%; height:40px; background-color:#0164bc; line-height:40px; margin-top:15px; min-width:1190px;}
@@ -238,7 +238,7 @@ padding-left: 0; z-index: 9999;}
 /**宽度**/
 .g-w-a{ width:auto;}
 .g-w-1000{ width:1000px; overflow:hidden; margin:0px auto;}
-.g-w-b100{ width:100%; min-width:1190px; overflow:hidden;} 
+.g-w-b100{ width:100%; min-width:1190px; overflow:hidden;}
 .g-w-998{ width:998px; overflow:hidden;}
 .g-w-978{ width:973px; overflow:hidden;}
 .g-w-965{ width:965px; overflow:hidden;}
@@ -338,10 +338,10 @@ padding-left: 0; z-index: 9999;}
 .bak{ color:#CCC; font-size:12px; line-height:22px; display:inherit; clear:left; padding:10px;}
 
 /*VIP等级图标*/
-i.vip7 {width:64px; height:14px;background:url(skin/hy_ico.png) no-repeat 0px -93px; display:block;}/*钻石*/
-i.vip9 {width:64px; height:14px;background:url(skin/hy_ico.png) no-repeat 0px -31px; display:block;}/*黄金*/
-i.vip11 {width:64px; height:14px;background:url(skin/hy_ico.png) no-repeat 0px 0px; display:block;}/*白金*/
-i.vip10 {width:64px; height:14px;background:url(skin/hy_ico.png) no-repeat 0px -62px; display:block;}/*至尊*/
+i.vip7 {width:64px; height:14px;background:url(../images/hy_ico.png) no-repeat 0px -93px; display:block;}/*钻石*/
+i.vip9 {width:64px; height:14px;background:url(../images/hy_ico.png) no-repeat 0px -31px; display:block;}/*黄金*/
+i.vip11 {width:64px; height:14px;background:url(../images/hy_ico.png) no-repeat 0px 0px; display:block;}/*白金*/
+i.vip10 {width:64px; height:14px;background:url(../images/hy_ico.png) no-repeat 0px -62px; display:block;}/*至尊*/
 
 /*显示新图标*/
 .icon-new{position: absolute;width: 21px;height: 13px;right: 26px;top: -4px;}

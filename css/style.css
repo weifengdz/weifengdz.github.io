@@ -3,12 +3,12 @@ body {
 }
 *{ margin:0px; padding:0px;}
 .totop_box{ width:56px; overflow:hidden; position:fixed; right:50px; bottom:50px;}
-.fankui a{ width:56px; height:56px; background:url(../../images/bg_totop.png) no-repeat 0px -58px; display:block;}
-.fankui a:hover{background:url(../../images/bg_totop.png) no-repeat;}
-.totop a{ width:56px; height:56px; margin-top:10px; background:url(../../images/bg_totop.png) no-repeat 0px -175px; display:block;}
-.totop a:hover{background:url(../../images/bg_totop.png) no-repeat 0px -116px;}
+.fankui a{ width:56px; height:56px; background:url(../images/bg_totop.png) no-repeat 0px -58px; display:block;}
+.fankui a:hover{background:url(../images/bg_totop.png) no-repeat;}
+.totop a{ width:56px; height:56px; margin-top:10px; background:url(../images/bg_totop.png) no-repeat 0px -175px; display:block;}
+.totop a:hover{background:url(../images/bg_totop.png) no-repeat 0px -116px;}
 .icon-gc {position: absolute;width: 9px;height: 11px;right: 28px;top: 0px;}
 .tishi {width: 100%;height: 30px;line-height: 30px;font-size: 12px;color: #222;text-align: center;background-color: #fffdbd; color:#F00; display:inherit; border-bottom:1px solid #CCC;}
 
-.ad_all .ask-img {float:left; margin-right:10px; display:block; width:930px; *margin-right:0px; } 
+.ad_all .ask-img {float:left; margin-right:10px; display:block; width:930px; *margin-right:0px; }
  .ads { _margin-bottom:3px !important; }

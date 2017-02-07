@@ -12,7 +12,7 @@ body a {text-decoration:none;}
 .g-index-nav li{width: 90px; }
 .g-index-nav li.g-cc {width:120px;}
 .g-index-nav li.g-cc a{width:120px; *width:119px; display:block;}
-.g-index-nav li a{  float: left;  background: #fff  url(../../image/icon2015.png) no-repeat scroll 0 -67px;  padding: 0 0 0 1px; height: 38px; border-bottom: 3px solid #1057a7;}
+.g-index-nav li a{  float: left;  background: #fff  url(../images/icon2015.png) no-repeat scroll 0 -67px;  padding: 0 0 0 1px; height: 38px; border-bottom: 3px solid #1057a7;}
 .g-index-nav li a{ width: 89px; }
 .g-index-nav li.first a,
 .g-nav li.first a{ background: #fff;}
@@ -25,13 +25,13 @@ body a {text-decoration:none;}
 .hdtp_a {
 	float:left;
 	width:200px;
-	height:80px; 
+	height:80px;
 	border:1px solid #e00;
 }
 .hdtp_b {
 	float:left;
 	width:200px;
-	height:80px; 
+	height:80px;
 	margin-left:10px;
 	border:1px solid #e00;
 }
