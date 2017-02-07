@@ -1,0 +1,1 @@
+var DTPath = "http://www.tpy888.cn/";var SKPath = "http://www.tpy888.cn/skin/default/";var MEPath = "http://www.tpy888.cn/member/";var EXPath = "http://www.tpy888.cn/extend/";var CKDomain = "";var CKPath = "/";var CKPrex = "destoon5_";
