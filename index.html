@@ -479,45 +479,6 @@ effect : "fadeIn" //自定义显示效果
 </div>
 
 
-    <!-- 我添加的JS -->
-<script type="text/javascript">
-    (function () {
-        var $subblock = $(".subpage"),
-        $ul = $("#proinfo"),
-        $lis = $ul.find("li"),
-        inter = false;
-        $ul.click(function (event) {
-            event.stopPropagation();
-        });
-        $lis.hover(function () {
-            if (!$(this).hasClass('nochild')) {
-                $(this).addClass("prosahover");
-                $(this).find(".prosmore").removeClass('hide');
-            }
-        },
-        function () {
-            if (!$(this).hasClass('nochild')) {
-                if ($(this).hasClass("prosahover")) {
-                    $(this).removeClass("prosahover");
-                }
-                $(this).find(".prosmore").addClass('hide');
-            }
-        });
-    })();
-//  手风琴特效 JS
-$(document).ready(function () {
-            $(".accordion dl dd").hide();
-            $(".accordion dl dd.store-show").show();
-            $(".accordion dl dt").hover(function () {
-                $(".accordion dl dd").hide();
-                $(this).next().show();
-            });
-            $(".accordion dl dt").mouseout(function () {
-                $(".accordion dl dd span.icon").removeAttr('id');
-            });
-        })
-</script>
-<!-- 我添加的JS end-->
 <script>
 var _hmt = _hmt || [];
 (function() {
