@@ -21,10 +21,10 @@ em{font-style:normal;}
 
 /*返回顶部*/
 .totop_box{ width:56px; overflow:hidden; position:fixed; right:50px; bottom:50px;}
-.fankui a{ width:56px; height:56px; background:url(http://img.tpy888.cn/public/bg_totop.png) no-repeat 0px -58px; display:block;}
-.fankui a:hover{background:url(http://img.tpy888.cn/public/bg_totop.png) no-repeat;}
-.totop a{ width:56px; height:56px; margin-top:10px; background:url(http://img.tpy888.cn/public/bg_totop.png) no-repeat 0px -175px; display:block;}
-.totop a:hover{background:url(http://img.tpy888.cn/public/bg_totop.png) no-repeat 0px -116px;}
+.fankui a{ width:56px; height:56px; background:url(../images/bg_totop.png) no-repeat 0px -58px; display:block;}
+.fankui a:hover{background:url(../images/bg_totop.png) no-repeat;}
+.totop a{ width:56px; height:56px; margin-top:10px; background:url(../images/bg_totop.png) no-repeat 0px -175px; display:block;}
+.totop a:hover{background:url(../images/bg_totop.png) no-repeat 0px -116px;}
 
 /**top**/
 .top_box{ width:100%; height:35px; border-bottom:1px solid #f3f3f3; background-color:#fcfcfc; line-height:35px;}
