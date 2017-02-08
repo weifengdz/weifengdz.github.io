@@ -483,45 +483,6 @@ effect : "fadeIn" //自定义显示效果
 <div class="clear"></div>
 </div>
 <!--side_c end-->
-<div class="main">
-<script>
-$(".lanren").find(".lrzj").mouseover(function(){
-$(this).removeClass("lrzj").addClass("rank_tab1 lrzj");
-$(this).siblings(".lrzj").removeClass("rank_tab1 lrzj").addClass="lrzj";
-var ectype=$(".rank_tab1").attr("ectype");
-$.ajax({
-type: 'GET',
-dataType: 'json',
-url: "http://www.weifengdianzi.com/remai_ajax.php?pid="+ectype,
-success: function(data){
-var rm_nums = data.length;
-$(".rank_content").empty();
-for(var i=0;i<rm_nums;i++){
-$('.rank_content').append("<li><a href='http://www.weifengdianzi.com/extend/redirect-htm-aid-"+data[i].aid+".html' target='_blank' rel='nofollow'><img  src='"+data[i].image_src+"' width='120' height='120' alt='"+data[i].introduce+"' title='"+data[i].introduce+"' /></a><br /><a href='http://www.weifengdianzi.com/extend/redirect-htm-aid-"+data[i].aid+".html' rel='nofollow'>"+data[i].introduce+"</a><br /><span class='orange'>"+data[i].title+"</span></li>");
-}
-}
-});
-})
-</script>
-<div style=" float:left;">
-<div class="ad3" style="height:80px; overflow:hidden;">
-<a href="http://www.weifengdianzi.com/extend/redirect.php?aid=2251" target="_blank" rel="nofollow"><img class="lazy" src="images/17-10-13-23-105112.gif" data-original="http://img.tpy888.cn/upload/201506/01/17-10-13-23-105112.gif" width="260" height="80" alt="夜狼" style="display: inline;"></a>
-</div>
-
-<div class="ad3">
-<a href="http://www.weifengdianzi.com/extend/redirect.php?aid=2622" target="_blank" rel="nofollow"><img class="lazy" src="images/17-26-53-35-1.gif" data-original="http://img.tpy888.cn/upload/201601/06/17-26-53-35-1.gif" width="660" height="80" alt="宝峰盛" style="display: inline;"></a>
-</div>
-    <div class="ad4">
-<div style="clear:both;"></div>
-<a href="http://www.weifengdianzi.com/extend/redirect.php?aid=2375" target="_blank" rel="nofollow"><img class="lazy" src="images/12-04-14-99-1.jpg" data-original="http://img.tpy888.cn/upload/201606/06/12-04-14-99-1.jpg" width="260" height="80" alt="慧视" style="display: inline;"></a>
-</div>
-</div>
-<div class="clear"></div>
-<!--paidrank end-->
-</div>
-<div class="clear"></div>
-<!--side_e end-->
-<!--ad_main end-->
 
 
 <!-- 安防资讯   -->
