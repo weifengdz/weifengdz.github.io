@@ -25,12 +25,3 @@ function showAuto()
 n = n >=(count - 1) ? 0 : ++n;
 $("#lb_banner li").eq(n).trigger('click');
 }
-</script>
-<script type="text/javascript">
-$(function(){
- $("img.lazy").lazyload({
-threshold : 100, //提前加载
-skip_invisible:false, //加载不可见图像
-effect : "fadeIn" //自定义显示效果
- });
-});
