@@ -147,6 +147,7 @@ table {border:none;padding:0;}
 .side_a {float:left;width:240px;}
 .side_c {float:right;width:240px;}
 .side_b {float:left;width:660px; margin-left:10px; margin-top:10px; _margin-left:5px; }
+.main_content {float:left;width:660px; margin-left:10px; margin-top:10px; _margin-left:5px; }
 .spotnews_b { border:1px solid #e00; height:507px; margin-bottom:10px;}
 .ts_pro {margin:10px 0;height:417px;_margin-bottom:7px;position:relative; border: 2px solid #cc0000;}
 .ts_img {position: relative;background: url("../images/tsproduct.gif") no-repeat scroll left top transparent;width: 76px;height: 76px;
