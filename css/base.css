@@ -35,10 +35,10 @@ em{font-style:normal;}
 *html .top_right{ width:540px;}
 .box_t{ width:1190px; height:35px; margin:auto;}
 
-.rt_box_a{width:76px; height:35px; float:left;}
+.rt_box_a{width:56px; height:35px; float:left;}
 *html .rt_box_a{width:85px;}
 
-.rt_box_b{width:62px; height:35px; float:left; position:relative; z-index:2;}
+.rt_box_b{width:70px; height:35px; float:left; position:relative; z-index:2;}
 *html .rt_box_b{width:70px;}
 .rt_box_b .tjg{ width:83px; height:35px; display:block; position:absolute; border:1px solid #f3f3f3; background-color:#FFF; top:0; left:-12px; z-index:-1; display:none;}
 .rt_box_b .ewm_box{ width:115px; height:147px; padding:15px; display:none; background-color:#FFF; position:absolute; top:35px; left:-74px; border:1px solid #f3f3f3; z-index:3; line-height:18px; text-align:center; color:#888;}
