@@ -68,7 +68,7 @@ em{font-style:normal;}
 .rt_box_d{width:80px; height:35px; float:left; position:relative; z-index:2;}
 *html .rt_box_d{width:90px;}
 .rt_box_d .tjg_b{ width:96px; height:35px; display:block; position:absolute; border:1px solid #f3f3f3; background-color:#FFF; top:0; left:-11px; z-index:-9; display:none;}
-.rt_box_d .ewm_box_b{ width:170px; height:210px; padding:15px; font-size:12px;  background-color:#FFF; position:absolute; top:35px; left:-115px; border:1px solid #f3f3f3; z-index:3; line-height:22px; display:none; }
+.rt_box_d .ewm_box_b{ width:170px; height:140px; padding:15px; font-size:12px;  background-color:#FFF; position:absolute; top:35px; left:-115px; border:1px solid #f3f3f3; z-index:3; line-height:22px; display:none; }
 .box_dh{ overflow:hidden;  }
 .box_dh_x{ border-bottom:1px solid #f3f3f3; padding-bottom:10px; margin-bottom:10px;}
 .box_dh a{ margin-right:10px;}
