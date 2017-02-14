@@ -10,5 +10,5 @@ body {
 .icon-gc {position: absolute;width: 9px;height: 11px;right: 28px;top: 0px;}
 .tishi {width: 100%;height: 30px;line-height: 30px;font-size: 12px;color: #222;text-align: center;background-color: #fffdbd; color:#F00; display:inherit; border-bottom:1px solid #CCC;}
 
-.ad_all .ask-img {float:left; margin-right:10px; display:block; width:930px; *margin-right:0px; }
- .ads { _margin-bottom:3px !important; }
+.ask-img {float:left; margin-right:10px; display:block; width:930px; *margin-right:0px; }
+

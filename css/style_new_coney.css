@@ -6,10 +6,6 @@ a:hover {color:#e46500;text-decoration:none;}
 ul,li {list-style:none;margin:0;padding:0;}
 table {border:none;padding:0;}
 .clear_7and8 {clear:both;font-size:0;height:0;line-height:0;overflow:hidden;position:inline;padding:0; margin:0; border:0;}
-.ad {margin-bottom:10px;height:80px;overflow:hidden; }
-.ad_all {width:1200px;height:80px;margin-top:10px ; margin-bottom:10px; }
-.ad3 {float:left;margin-right:10px;	height:80px;	overflow:hidden;}
-.ad4 {float:right;height:80px;overflow:hidden;}
 .user_news {float:left;	margin-right:10px;}
 .user_news img {margin-right:10px;}
 .bar_login, .bar_register {display:block;	float:left;	text-align:center;	padding-top:2px\9;}
@@ -301,7 +297,7 @@ h3 span{background:url(../images/h6_left.gif) no-repeat left top;	display:inline
 .sort_b {float:right;}
 .sort_a h3 span a , .sort_a h3 span a:hover ,.sort_b h3 span a , .sort_b h3 span a:hover{ color:#fff; }
 .side_e {float:right;width:260px;/*height:840px;*/}
-.ad_main {margin:10px 0 10px 0;	_margin:0 0 10px 0;}
+
 .side_e .vip_a {height: 330px;background:url(../images/xinrui_bg.png) no-repeat ;padding: 10px 11px 0px 0px; margin-bottom:10px;}
 .side_e .vip_b {height: 360px;background:url(../images/vip_bg.png) no-repeat;padding: 10px 11px 0px 0px; margin-bottom:10px;}
 /*.vip_a img {border:1px solid #c8c8c8;}*/
