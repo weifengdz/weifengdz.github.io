@@ -1,1 +1,1 @@
-var DTPath = "http://www.tpy888.cn/";var SKPath = "http://www.tpy888.cn/skin/default/";var MEPath = "http://www.tpy888.cn/member/";var EXPath = "http://www.tpy888.cn/extend/";var CKDomain = "";var CKPath = "/";var CKPrex = "destoon5_";
+var DTPath = "http://www.weifengdianzi.com/";var SKPath = "http://www.weifengdianzi.com/skin/default/";var MEPath = "http://www.weifengdianzi.com/member/";var EXPath = "http://www.weifengdianzi.com/extend/";var CKDomain = "";var CKPath = "/";var CKPrex = "destoon5_";
