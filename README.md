@@ -1,9 +1,6 @@
 # 石家庄威凤电子工程有限公司
 
-## 基本账号
 - 邮箱： weifengdianzigch@126.com
-
-## 功能性
 - 网站： www.weifengdianzi.com
 - 58同城店铺
 - 赶集
