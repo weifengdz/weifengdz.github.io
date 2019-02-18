@@ -31,7 +31,7 @@ em{font-style:normal;}
 .thread{width: 1px; height: 15px; margin: 10px 10px 0px; float: left; background-color:#EAEAEA;}
 .top_left{ width:300px; overflow:hidden; float:left;}
 .top_left .zc a{ color:#da2a2a;}
-.top_right{ width:540px; height:35px; float:right;}
+.top_right{ width:600px; height:35px; float:right;}
 *html .top_right{ width:540px;}
 .box_t{ width:1190px; height:35px; margin:auto;}
 
