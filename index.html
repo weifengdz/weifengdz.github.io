@@ -28,7 +28,8 @@
     <script src="js/img_loop2.js" language="javascript"></script>
     <script> 
       $(function(){
-        $("#topbar").load("template/topbar.html"); 
+        $("#topbar").load("template/topbar.html");
+        $("#navbar").load("template/navbar.html");
       });
     </script> 
   </head>
@@ -37,24 +38,9 @@
   <body>
     <div class="top_main">
       <div class="top_box" id='topbar'></div>
-      
-      <div class="main">
-      <!-- 导航开始    -->
-        <div class="nav_box_top">
-              <ul>
-                <li class="nav_box_jg"><a class="sy_nav" href="http://www.weifengdianzi.com/" target="_self">首页</a></li>
-                <li><a href="http://www.weifengdianzi.com/about.html" target="_self">公司简介</a></li>
-                <li><a href="http://www.weifengdianzi.com/about.html" target="_self">项目案例</a></li>
-                <li><a href="http://www.weifengdianzi.com/about.html" target="_self">经营产品</a></li>
-                <li><a href="http://www.weifengdianzi.com/zulin.html" target="_self">工具租赁</a></li>
-                <li><a href="http://www.weifengdianzi.com/about.html" target="_self">招商引资</a></li>
-                <li><a href="http://www.weifengdianzi.com/about.html" target="_self">合作伙伴</a></li>
-                <li><a href="http://www.weifengdianzi.com/zhaopin.html" target="_self">人才招聘</a></li>
-                <li><a href="http://www.weifengdianzi.com/contact.html" target="_self">联系我们</a></li>
-              </ul>
-        </div>
-        <!-- 导航结束    -->
 
+      <div class="main">
+        <div class="nav_box_top" id='navbar'></div>
 
         <!--side_a side_b side_c-->
         <div>
