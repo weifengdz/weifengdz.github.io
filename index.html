@@ -31,11 +31,6 @@
         $("#topbar").load("template/topbar.html");
         $("#navbar").load("template/navbar.html");
         $("#footer").load("template/footer.html");
-
-        $(document).ready(function(){
-          document.getElementById('index').className = 'nav_box_jg'; 
-          document.getElementById('index_nav').className = 'sy_nav'; 
-        });
       });
     </script> 
   </head>
@@ -247,8 +242,8 @@
 
       <script>
         $(document).ready(function(){
-          $("#index").attr('class', 'nav_box_jg');
-          $("#index_nav").attr('class', 'sy_nav');
+          document.getElementById('index').className = 'nav_box_jg'; 
+          document.getElementById('index_nav').className = 'sy_nav'; 
         });
       </script> 
 
